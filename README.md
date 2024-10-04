@@ -32,7 +32,7 @@ The module we are using is called handtracking. It uses two modules at the backe
 1) Palm detetction
 2) Hand landmarks
 
-The Palm detetction provides a cropped image of the hand. Then the Hand landmarks module finds 21 different points on your hand
+The Palm detection provides a cropped image of the hand. Then the Hand landmarks module finds 21 different points on your hand
 
 This hand landmarks module was trained using manually annotated images(about 30000) of different hands.
 
